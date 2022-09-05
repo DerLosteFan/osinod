@@ -1,0 +1,15 @@
+{
+  "name": "music",
+  "author": "Sonido",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest",
+    "ytdl-core": "^4.9.2",
+    "yt-search": "^2.10.1",
+    "ytpl": "^2.2.3",
+    "spotify-web-api-node": "^5.0.2",
+    "spotify-url-info": "^2.2.3",
+    "axios": "^0.27.2",
+    "autocode-discordjs": "^1.1.0"
+  }
+}
